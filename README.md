@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Carlo De Nardin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**carlodenardin/carlodenardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## :sassy_man:  About me
+- :school: I have a bachelor's degree in Internet Of Things, Big Data and Web @ <a href="https://www.uniud.it/it">UniUd</a>
+- :man_student: I'm currently pursuing a master degree in Data Science & Scientific Computing @ <a href="https://www.units.it/it">UniTs</a>
+- 
+- :nerd_face: Always `learning new things`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlodenardin&theme=algolia" alt="carlodenardin" /></p>
